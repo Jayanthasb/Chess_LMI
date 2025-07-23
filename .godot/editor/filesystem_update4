@@ -1,0 +1,4 @@
+res://main.gd
+res://main.tscn
+res://board/ChessBoard.tscn
+res://board/ChessBoard.gd
